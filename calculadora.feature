@@ -1,4 +1,4 @@
-#TESTE CUCUMBER
+#TESTE CUCUMBERS
 Feature: Calculadora
     Como usuario
     Quero realizar somas na Calculadora
